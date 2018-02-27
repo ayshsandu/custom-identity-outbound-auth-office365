@@ -13,6 +13,6 @@ Do the following:
 
 1. Execute mvn clean install to build the project.
 
-2.Place target/org.verifone.custom.extension.identity.authenticator.office365.connector-1.0.2-custom.jar into <IS_HOME>/repository/components/dropins. In <IS_HOME>/repository/components/dropins Remove if you already have any org.verifone.custom.extension.identity.authenticator.office365.connector.*.jar files if you already have.
+2.Place target/org.verifone.custom.extension.identity.authenticator.office365.connector-1.0.2.jar into <IS_HOME>/repository/components/dropins. In <IS_HOME>/repository/components/dropins Remove if you already have any org.wso2.carbon.extension.identity.authenticator.office365.*.jar files if you already have.
 
 3.Start the IS server and create Identity provider and service provider in IS via the IS console.
